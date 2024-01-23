@@ -5,6 +5,8 @@
 
 ## 🚀 Diavlo Crack Oficial (V3) 🚀
 
+[Obtener el instalador](https://github.com/DiavloUnoficcialTeam/Diavlo-Oficcial-C/releases/tag/Latest)
+
 `version 3.12.8`
 Diavlo Crack Oficial de la comunidad. - ¡Con funciones premium!. - Encuentra contraseñas de cuentas no premium por la base de datos de filtraciones que incluimos, y accede a funciones premium del diavlo.
 
