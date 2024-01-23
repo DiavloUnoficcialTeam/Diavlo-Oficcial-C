@@ -1,4 +1,6 @@
 ## ⚙️➜ Instalación
+[Puedes obtener el instalador aca](https://github.com/DiavloUnoficcialTeam/Diavlo-Oficcial-C/releases/tag/Latest)
+ 
 ¿Cómo me instalo el cliente?
 ```
 1) Descargate el instalador binario (Diavlo-installer.exe).
